@@ -1,7 +1,7 @@
 # My Song Native
 
 ###### Matheus Ricelly <fsenaweb@gmail.com>
-> Repertório Musical - Pesquise pela letras das canções
+
 > Musical Repertory - Search for song lyrics
 
 [![License](https://poser.pugx.org/creativeorange/gravatar/license.svg)](https://packagist.org/packages/creativeorange/gravatar)
